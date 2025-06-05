@@ -32,6 +32,22 @@
 
 ---
 
+### 🤝 Let's Connect!
+
+<p align="center">
+  <a href="www.linkedin.com/in/subhojyotimaity" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="subhojyotimaity1082005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/MONSTERBOY110" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
+
+--- 
+
 ### 📊 GitHub Stats
 
 <p align="center">
