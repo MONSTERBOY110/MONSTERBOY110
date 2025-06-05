@@ -12,7 +12,7 @@
 - 💻 Visionary Coder
 - 🧠 Exploring DSA,Web Dev
 - 🧰 Focused on impactful tech — Blending logic & Creativity
-- 🎨 Passionate about design,coding,exploring new things
+- 🎨 Passionate about designing,coding,exploring new things
 
 ---
 
