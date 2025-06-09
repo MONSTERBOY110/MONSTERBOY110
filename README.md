@@ -21,6 +21,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
 
 ---
 
