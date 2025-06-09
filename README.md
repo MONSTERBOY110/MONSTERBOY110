@@ -55,10 +55,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MONSTERBOY110&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MONSTERBOY110&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 
 <!---
 MONSTERBOY110/MONSTERBOY110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
