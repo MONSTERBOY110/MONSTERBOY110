@@ -45,17 +45,6 @@
 
 --- 
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MONSTERBOY110&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MONSTERBOY110&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-
 <!---
 MONSTERBOY110/MONSTERBOY110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
