@@ -8,7 +8,7 @@
 ---
 
 ### ✨ About Me
-- 🎓 1st Year CSE Student at Bengal Institute of Technoloy
+- 🎓 2nd Year CSE Student at Bengal Institute of Technoloy
 - 💻 Visionary Coder
 - 🧠 Exploring DSA,Web Dev
 - 🧰 Focused on impactful tech — Blending logic & Creativity
