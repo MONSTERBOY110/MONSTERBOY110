@@ -8,11 +8,12 @@
 ---
 
 <h3 align="center">✨ About Me</h3>
-- 🎓 2nd Year CSE Student at Bengal Institute of Technoloy
-- 💻 Visionary Coder
-- 🧠 Exploring DSA,Web Dev
-- 🧰 Focused on impactful tech — Blending logic & Creativity
-- 🎨 Passionate about designing,coding,exploring new things
+
+- 🎓 2nd Year CSE Student at Bengal Institute of Technoloy <br>
+- 💻 Visionary Coder<br>
+- 🧠 Exploring DSA,Web Dev,GEN AI <br> 
+- 🧰 Focused on impactful tech — Blending logic & Creativity <br>
+- 🎨 Passionate about designing,coding,exploring new things<br>
 
 ---
 
