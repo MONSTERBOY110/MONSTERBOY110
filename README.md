@@ -7,7 +7,7 @@
 
 ---
 
-### ✨ About Me
+<h3 align="center">✨ About Me</h3>
 - 🎓 2nd Year CSE Student at Bengal Institute of Technoloy
 - 💻 Visionary Coder
 - 🧠 Exploring DSA,Web Dev
@@ -16,19 +16,29 @@
 
 ---
 
-### 📊 GitHub Stats
-
+<h3 align="center">🚀 Languages & Tools</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MONSTERBOY110&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="GitHub Stats" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" /> <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" /> <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MONSTERBOY110&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
-### 🤝 Let's Connect!
+
+<h3 align="center">📈 GitHub Stats</h3>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MONSTERBOY110&show_icons=true&theme=tokyonight" /> <br><br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MONSTERBOY110&theme=tokyonight" /> <br><br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MONSTERBOY110&layout=compact&theme=tokyonight" /> </p>
+
+---
+
+<h3 align="center">🤝 Let's Connect!</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/subhojyotimaity" target="_blank">
