@@ -1,5 +1,6 @@
-<h1 align="center">👋 Hi there, I'm Subhojyoti Maity</h1>
-<p align="center">Crafting code & Building with curiosity.</p>
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=1200&size=28&duration=2000&pause=500&color=F72585&center=true&vCenter=true&width=500&lines=Hey+There+👋;I'm+Subhojyoti+Maity;Coder+%7C+Designer" />
+</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="Animated Cat"/>
@@ -17,22 +18,29 @@
 
 ---
 
-<h3 align="center">🚀 Languages & Tools</h3>
+<h3 align="center">🚀 Languages</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" /> <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" /> <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" />
 </p>
 
 
 ---
 
+<h3 align="center">🛠️ Tools & Platforms</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" title="Git" />
+  <img src="https://netbeans.apache.org/_/images/apache-netbeans.svg" width="60" title="NetBeans" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" title="VS Code" />
+</p>
+
+---
 
 <h3 align="center">📈 GitHub Stats</h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MONSTERBOY110&show_icons=true&theme=tokyonight" /> <br><br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MONSTERBOY110&theme=tokyonight" /> <br><br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MONSTERBOY110&layout=compact&theme=tokyonight" /> </p>
@@ -43,13 +51,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/subhojyotimaity" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn" />
   </a>
   <a href="mailto:subhojyotimaity1082005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Gmail" />
   </a>
-  <a href="https://github.com/MONSTERBOY110" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  <a href="https://x.com/Subhojyoti_110?s=09" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40" alt="X" />
   </a>
 </p>
 
