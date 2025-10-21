@@ -8,16 +8,6 @@
 
 ---
 
-<h3 align="center">✨ About Me</h3>
-
-- 🎓 2nd Year CSE Student at Bengal Institute of Technoloy <br>
-- 💻 Visionary Coder<br>
-- 🧠 Exploring DSA,Web Dev,GEN AI <br> 
-- 🧰 Focused on impactful tech — Blending logic & Creativity <br>
-- 🎨 Passionate about designing,coding,exploring new things<br>
-
----
-
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td width="50%" valign="top" style="border: none;">
@@ -61,25 +51,6 @@
 
 <br/><br/>
   
----
-
-<h3 align="center">🤝 Let's Connect!</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/subhojyotimaity" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn" title="Connect on LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:subhojyotimaity1082005@gmail.com">
-     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Gmail" title="Send me an Email" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/Subhojyoti_110?s=09" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40" alt="X" title="Follow on X" />
-  </a>
-</p>
-
---- 
 
 <!---
 MONSTERBOY110/MONSTERBOY110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
