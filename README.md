@@ -1,12 +1,12 @@
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=1200&size=28&duration=2000&pause=500&center=true&vCenter=true&width=500&lines=Hey+There+👋;I'm+Subhojyoti+Maity;Coder+%7C+Designer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=1200&size=28&duration=1000&pause=500&center=true&vCenter=true&width=500&lines=Hey+There+👋;I'm+Subhojyoti+Maity;Coder+%7C+Designer" />
 </h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="Animated Cat"/>
 </p>
 
----
+<br/>
 
 <table style="border: none; border-collapse: collapse;">
   <tr>
@@ -38,9 +38,14 @@
   </tr>
 </table>
 
----
+<br/>
 
-<h3 align="center">📈 GitHub Stats</h3>
+
+<h3 align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=1200&size=28&duration=1000&pause=500&center=true&vCenter=true&width=500&lines=⚡+Current+Statistics+⚡" />
+</h3>
+
+<br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=MONSTERBOY110&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=MONSTERBOY110&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
