@@ -34,8 +34,8 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="40" title="NetBeans" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" title="Figma" />
-        <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/github-copilot-logo-png_seeklogo-428029.png" width="40" title="GitHub Copilot" />
-        <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/lovable-color.png" width="40" title="Lovable" />
+        <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/githubcopilot.png" width="40" title="GitHub Copilot" />
+        <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/lovable-color.png" width="40" title="Lovable" />
 
   </tr>
 </table>
