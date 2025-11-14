@@ -15,13 +15,13 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Anton&weight=700&size=28&duration=1&pause=1000000&center=true&vCenter=true&width=550&lines=💻+Programming+Languages" />
       </h3>
       <p align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" /> <br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+        <img src="https://skillicons.dev/icons?i=c&theme=dark" width="40" title="C" />
+        <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="40" title="C++" />
+        <img src="https://skillicons.dev/icons?i=java&theme=dark" width="40" title="Java" />
+        <img src="https://skillicons.dev/icons?i=python&theme=dark" width="40" title="Python" /> <br>
+        <img src="https://skillicons.dev/icons?i=html&theme=dark" width="40" title="HTML5" />
+        <img src="https://skillicons.dev/icons?i=css&theme=dark" width="40" title="CSS3" />
+        <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="40" title="JavaScript" />
       </p>
     </td>
     <td width="50%" valign="top" style="border: none;">
@@ -29,15 +29,19 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Anton&weight=700&size=28&duration=1&pause=1000000&center=true&vCenter=true&width=500&lines=🛠️+Tools+%26+Platforms" />
       </h3>
       <p align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
-        <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/githubcopilot.png" width="40" title="GitHub Copilot" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="40" title="NetBeans" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" title="Figma" />
-        <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/lovable-color.png" width="40" title="Lovable" />
-
+         <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="40" title="VS Code" />
+         <img src="https://skillicons.dev/icons?i=replit&theme=dark" width="40" title="Replit" /> 
+         <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" width="40" title="Cursor" /> 
+         <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/lovable-color.png" width="40" title="Lovable" /> <br>
+         <img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" title="Git" />
+         <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" title="GitHub" />
+         <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/githubcopilot.png" width="40" title="GitHub Copilot" /> <br>
+         <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="40" title="Figma" /> 
+         <img src="https://img.icons8.com/?size=100&id=EZQdGLNeo7JI&format=png&color=000000" width="40" title="Canva" /> 
+         <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" width="40" title="Adobe XD" /> <br>
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="40" title="NetBeans" />
+         <img src="https://skillicons.dev/icons?i=notion&theme=dark" width="40" title="Notion" />
   </tr>
 </table>
 
