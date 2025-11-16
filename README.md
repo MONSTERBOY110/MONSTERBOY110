@@ -51,7 +51,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=1200&size=28&duration=1000&pause=500&center=true&vCenter=true&width=500&lines=⚡+Badges+⚡" />
 </h3>
 <div align=center>
-  <img width=150 src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/Postman API Fundamentals Student Expert.png"/>
+  <img width=150 src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/Postman API Fundamentals Student Expert.png"/>
 </div>
 
 
