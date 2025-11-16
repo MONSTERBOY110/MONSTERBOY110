@@ -48,7 +48,7 @@
 <br/>
 
 <h3 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=1200&size=28&duration=1000&pause=500&center=true&vCenter=true&width=500&lines=⚡+Badges+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=1200&size=28&duration=1000&pause=500&center=true&vCenter=true&width=500&lines=🏅+Badges+🏅" />
 </h3>
 <div align="center">
   <a href="https://badges.parchment.com/public/assertions/k-VDtThuRbCxqV25RFocHw?identity__email=subhojyotimaity1082005%40gmail.com" target="_blank">
