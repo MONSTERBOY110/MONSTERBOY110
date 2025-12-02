@@ -7,6 +7,7 @@
 </p>
 
 <br/>
+<div>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Anton&weight=700&size=28&duration=1&pause=1000000&center=true&vCenter=true&width=550&lines=💻+Programming+Languages" />
@@ -40,8 +41,6 @@
   </tr>
 </table>
 
-<br/>
-
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Anton&weight=700&size=28&duration=1&pause=1000000&center=true&vCenter=true&width=500&lines=🛠️+Tools+%26+Platforms" />
 </h3>
@@ -72,7 +71,7 @@
     </td>
   </tr>
 </table>
-
+</div>
 <br/>
 
 <h3 align="center"> 
