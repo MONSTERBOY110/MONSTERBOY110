@@ -8,7 +8,6 @@
 
 <br/>
 
-<!-- Programming Languages Table with Categories -->
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Anton&weight=700&size=28&duration=1&pause=1000000&center=true&vCenter=true&width=550&lines=💻+Programming+Languages" />
 </h3>
@@ -18,34 +17,31 @@
     <th width="33%" align="center">Languages</th>
     <th width="33%" align="center">Frontend</th>
     <th width="33%" align="center">Backend/Framework</th>
+    <th width="33%" align="center">Database</th>
   </tr>
   <tr>
-    <!-- Languages -->
     <td align="center" style="border: none;">
       <img src="https://skillicons.dev/icons?i=c&theme=dark" width="40" title="C" />
       <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="40" title="C++" />
       <img src="https://skillicons.dev/icons?i=java&theme=dark" width="40" title="Java" />
       <img src="https://skillicons.dev/icons?i=python&theme=dark" width="40" title="Python" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
     </td>
-    <!-- Frontend -->
     <td align="center" style="border: none;">
       <img src="https://skillicons.dev/icons?i=html&theme=dark" width="40" title="HTML5" />
       <img src="https://skillicons.dev/icons?i=css&theme=dark" width="40" title="CSS3" />
       <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="40" title="JavaScript" />
-      <!-- Add your React or other frontend frameworks here -->
     </td>
-    <!-- Backend/Framework -->
     <td align="center" style="border: none;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="40" title="NetBeans" />
-      <!-- Add backend icons (NodeJs, Express, Django, etc.) as required -->
+    </td>
+     <td align="center" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- Tools & Platforms Table with Categories -->
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Anton&weight=700&size=28&duration=1&pause=1000000&center=true&vCenter=true&width=500&lines=🛠️+Tools+%26+Platforms" />
 </h3>
@@ -57,20 +53,17 @@
     <th width="33%" align="center">Design & Collaboration</th>
   </tr>
   <tr>
-    <!-- Code Editors -->
     <td align="center" style="border: none;">
       <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="40" title="VS Code" />
       <img src="https://skillicons.dev/icons?i=replit&theme=dark" width="40" title="Replit" />
       <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" width="40" title="Cursor" />
       <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/lovable-color.png" width="40" title="Lovable" />
     </td>
-    <!-- Platforms -->
     <td align="center" style="border: none;">
       <img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" title="Git" />
       <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" title="GitHub" />
       <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/githubcopilot.png" width="40" title="GitHub Copilot" />
     </td>
-    <!-- Design & Collaboration -->
     <td align="center" style="border: none;">
       <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="40" title="Figma" />
       <img src="https://img.icons8.com/?size=100&id=EZQdGLNeo7JI&format=png&color=000000" width="40" title="Canva" />
