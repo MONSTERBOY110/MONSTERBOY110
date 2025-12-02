@@ -63,7 +63,6 @@
       <img src="https://skillicons.dev/icons?i=replit&theme=dark" width="40" title="Replit" />
       <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" width="40" title="Cursor" />
       <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/lovable-color.png" width="40" title="Lovable" />
-      <img src="https://skillicons.dev/icons?i=notion&theme=dark" width="40" title="Notion" />
     </td>
     <!-- Platforms -->
     <td align="center" style="border: none;">
@@ -75,6 +74,7 @@
     <td align="center" style="border: none;">
       <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="40" title="Figma" />
       <img src="https://img.icons8.com/?size=100&id=EZQdGLNeo7JI&format=png&color=000000" width="40" title="Canva" />
+      <img src="https://skillicons.dev/icons?i=notion&theme=dark" width="40" title="Notion" />
       <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" width="40" title="Adobe XD" />
     </td>
   </tr>
