@@ -88,11 +88,20 @@
 </h3>
 
 <br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=MONSTERBOY110&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=MONSTERBOY110&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MONSTERBOY110&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&co[...]
-</div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MONSTERBOY110&theme=xcode&hide_border=true" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MONSTERBOY110&theme=onedark&no-frame=true&row=1&column=6&margin-w=10" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="150" />
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="150" />
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="150" />
+</p>
 
   <br/>
 
