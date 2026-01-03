@@ -33,6 +33,7 @@
       <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="40" title="JavaScript" />
     </td>
     <td align="center" style="border: none;">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" width="40" title="NetBeans" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="40" title="NetBeans" />
     </td>
      <td align="center" style="border: none;">
