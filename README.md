@@ -56,7 +56,6 @@
       <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="40" title="VS Code" />
       <img src="https://skillicons.dev/icons?i=replit&theme=dark" width="40" title="Replit" />
       <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" width="40" title="Cursor" />
-      <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/lovable-color.png" width="40" title="Lovable" />
     </td>
     <td align="center" style="border: none;">
       <img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" title="Git" />
@@ -67,7 +66,8 @@
       <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="40" title="Figma" />
       <img src="https://img.icons8.com/?size=100&id=EZQdGLNeo7JI&format=png&color=000000" width="40" title="Canva" />
       <img src="https://skillicons.dev/icons?i=notion&theme=dark" width="40" title="Notion" />
-      <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" width="40" title="Adobe XD" />
+      <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/lovable-color.png" width="33" title="Lovable" />
+      <img src="https://techpilot.ai/wp-content/uploads/2025/08/Orchids-AI-Logo.png" width="40" title="Orchids" />
     </td>
   </tr>
 </table>
