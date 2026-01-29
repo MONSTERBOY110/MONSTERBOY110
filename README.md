@@ -67,7 +67,7 @@
       <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="40" title="Figma" />
       <img src="https://img.icons8.com/?size=100&id=EZQdGLNeo7JI&format=png&color=000000" width="40" title="Canva" />
       <img src="https://skillicons.dev/icons?i=notion&theme=dark" width="40" title="Notion" />
-      <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/lovable-color.png" width="33" title="Lovable" />
+      <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/lovable.png" width="33" title="Lovable" />
       <img src="https://techpilot.ai/wp-content/uploads/2025/08/Orchids-AI-Logo.png" width="40" title="Orchids" />
     </td>
   </tr>
