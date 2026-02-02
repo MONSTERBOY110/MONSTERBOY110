@@ -90,27 +90,24 @@
 </div>
 <br/>
 
-<h3 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=1200&size=28&duration=1000&pause=500&center=true&vCenter=true&width=500&lines=🏅+Badges+🏅" />
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Anton&weight=700&size=28&duration=1&pause=1000000&center=true&vCenter=true&width=500&lines=🏅+Badges" />
 </h3>
+
 <div align="center">
   <a href="https://badges.parchment.com/public/assertions/k-VDtThuRbCxqV25RFocHw?identity__email=subhojyotimaity1082005%40gmail.com" target="_blank">
     <img width="150" src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/Postman API Fundamentals Student Expert.png" />
   </a>
 </div>
 
-<h3 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=1200&size=28&duration=1000&pause=500&center=true&vCenter=true&width=500&lines=⚡+Current+Statistics+⚡" />
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Anton&weight=700&size=28&duration=1&pause=1000000&center=true&vCenter=true&width=500&lines=⚡+Current+Statistics" />
 </h3>
 
 <br>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MONSTERBOY110&theme=xcode&hide_border=true" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MONSTERBOY110&theme=onedark&no-frame=true&row=1&column=6&margin-w=10" width="100%" />
 </p>
 
 <p align="center">
@@ -122,8 +119,3 @@
   <br/>
 
 <br/><br/>
-
-<!---
-MONSTERBOY110/MONSTERBOY110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
