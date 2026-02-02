@@ -80,9 +80,9 @@
       <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/githubcopilot.png" width="40" title="GitHub Copilot" />
     </td>
     <td align="center" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" title="Claude" />
+      <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/claude-color.png" width="33" title="Claude" />
       <img src="https://github.com/user-attachments/assets/5a417c1d-097a-4193-9796-e9e1c9f7833e" width="40" title="ChatGPT" />
-      <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/githubcopilot.png" width="40" title="Gemini" />
+      <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/gemini-color.png" width="33" title="Gemini" />
     </td>
     <td align="center" style="border: none;">
       <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="40" title="Figma" />
