@@ -6,6 +6,10 @@
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="Animated Cat"/>
 </p>
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Anton&weight=700&size=28&duration=1&pause=1000000&center=true&vCenter=true&width=550&lines=🏆+Hackathons" />
+</h3>
+
 <table align="center"> 
   <thead> 
     <tr> 
