@@ -48,7 +48,7 @@
       <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="40" title="JavaScript" />
     </td>
     <td align="center" style="border: none;">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" width="40" title="NetBeans" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" width="40" title="FastAPI" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="40" title="NetBeans" />
     </td>
      <td align="center" style="border: none;">
@@ -65,6 +65,7 @@
   <tr>
     <th width="33%" align="center">Code Editors</th>
     <th width="33%" align="center">Platforms</th>
+    <th width="33%" align="center">Tools</th>
     <th width="33%" align="center">Design & Collaboration</th>
   </tr>
   <tr>
@@ -77,6 +78,11 @@
       <img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" title="Git" />
       <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" title="GitHub" />
       <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/githubcopilot.png" width="40" title="GitHub Copilot" />
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" title="Claude" />
+      <img src="https://github.com/user-attachments/assets/5a417c1d-097a-4193-9796-e9e1c9f7833e" width="40" title="ChatGPT" />
+      <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/githubcopilot.png" width="40" title="Gemini" />
     </td>
     <td align="center" style="border: none;">
       <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="40" title="Figma" />
