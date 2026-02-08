@@ -6,10 +6,6 @@
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="Animated Cat"/>
 </p>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Anton&weight=700&size=28&duration=1&pause=1000000&center=true&vCenter=true&width=550&lines=🏆+Hackathons" />
-</h3>
-
 <table align="center"> 
   <thead> 
     <tr> 
@@ -23,10 +19,6 @@
   </tbody> 
 </table>
 <br/>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Anton&weight=700&size=28&duration=1&pause=1000000&center=true&vCenter=true&width=550&lines=💻+Programming+Languages" />
-</h3>
 
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr>
@@ -56,11 +48,6 @@
     </td>
   </tr>
 </table>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Anton&weight=700&size=28&duration=1&pause=1000000&center=true&vCenter=true&width=500&lines=🛠️+Tools+%26+Platforms" />
-</h3>
-
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr>
     <th width="33%" align="center">Code Editors</th>
@@ -96,32 +83,17 @@
 </div>
 <br/>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Anton&weight=700&size=28&duration=1&pause=1000000&center=true&vCenter=true&width=500&lines=🏅+Badges" />
-</h3>
-
 <div align="center">
   <a href="https://badges.parchment.com/public/assertions/k-VDtThuRbCxqV25RFocHw?identity__email=subhojyotimaity1082005%40gmail.com" target="_blank">
-    <img width="150" src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/Postman API Fundamentals Student Expert.png" />
+    <img width="100" src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/Postman API Fundamentals Student Expert.png" />
   </a>
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="100" />
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="100" />
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="100" />
 </div>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Anton&weight=700&size=28&duration=1&pause=1000000&center=true&vCenter=true&width=500&lines=⚡+Current+Statistics" />
-</h3>
 
 <br>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MONSTERBOY110&theme=xcode&hide_border=true" width="90%" />
 </p>
-
-<p align="center">
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="150" />
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="150" />
-  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="150" />
-</p>
-
-  <br/>
-
-<br/><br/>
