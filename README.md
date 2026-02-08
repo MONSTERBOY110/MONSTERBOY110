@@ -1,10 +1,16 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="Animated Cat"/>
+</p>
+
 <h1 align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=1200&size=28&duration=1000&pause=500&center=true&vCenter=true&width=500&lines=Hey+There+👋;I'm+Subhojyoti+Maity;Coder+%7C+Designer" />
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="Animated Cat"/>
-</p>
+
+<div align="center">
+  
+  ![snake gif](https://github.com/MONSTERBOY110/MONSTERBOY110/blob/output/github-snake-dark.svg)
+</div>
 
 <table align="center"> 
   <thead> 
@@ -93,9 +99,3 @@
 </div>
 
 <br>
-
-
-<div align="center">
-  
-  ![snake gif](https://github.com/MONSTERBOY110/MONSTERBOY110/blob/output/github-snake-dark.svg)
-</div>
