@@ -94,6 +94,8 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MONSTERBOY110&theme=xcode&hide_border=true" width="90%" />
-</p>
+
+<div align="center">
+  
+  ![snake gif](https://github.com/MONSTERBOY110/MONSTERBOY110/blob/output/github-snake-dark.svg)
+</div>
