@@ -44,26 +44,30 @@
       <img src="https://skillicons.dev/icons?i=html&theme=dark" width="40" title="HTML5" />
       <img src="https://skillicons.dev/icons?i=css&theme=dark" width="40" title="CSS3" />
       <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="40" title="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="40" title="React" />
     </td>
     <td align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=express&theme=dark" width="40" title="ExpressJS" />
+      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="40" title="NodeJS" />
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" width="40" title="FastAPI" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="40" title="NetBeans" />
     </td>
      <td align="center" style="border: none;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
+      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="40" title="MongoDB" />
     </td>
   </tr>
 </table>
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr>
-    <th width="33%" align="center">Code Editors</th>
+    <th width="33%" align="center">IDE/Code Editors</th>
     <th width="33%" align="center">Platforms</th>
-    <th width="33%" align="center">Tools</th>
+    <th width="33%" align="center">Companions</th>
     <th width="33%" align="center">Design & Collaboration</th>
   </tr>
   <tr>
     <td align="center" style="border: none;">
       <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="40" title="VS Code" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="40" title="NetBeans" />
       <img src="https://skillicons.dev/icons?i=replit&theme=dark" width="40" title="Replit" />
       <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" width="40" title="Cursor" />
     </td>
