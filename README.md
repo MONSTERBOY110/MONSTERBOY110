@@ -21,6 +21,7 @@
   <tbody> 
     <tr> 
       <td>1</td> <td>Winter Solstice</td> <td>Open Innovation</td> <td>2nd Runner Up</td>
+      <td>1</td> <td>Agentic Premier League</td> <td>Open Innovation</td> <td>Winner</td>
     </tr>
   </tbody> 
 </table>
