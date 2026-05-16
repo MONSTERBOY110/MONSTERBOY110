@@ -15,15 +15,21 @@
 <table align="center"> 
   <thead> 
     <tr> 
-      <th>#</th> <th> Hackathon </th> <th> Track</th> <th> Rank </th>
+      <th>#</th> <th> Hackathon </th> <th> Level</th> <th> Track</th> <th> Rank </th>
     </tr> 
   </thead> 
   <tbody> 
     <tr align="center"> 
-      <td>1</td> <td>Winter Solstice</td> <td>Open Innovation</td> <td>2nd Runner Up</td>
+      <td>1</td> <td>JIS Ideathon 2k25</td> <td>All India</td><td></td> <td>🥇 Winner</td>
+    </tr>
+    <tr align="center"> 
+      <td>2</td> <td>Winter Solstice</td> <td>College</td><td>Open Innovation</td> <td>🥉 2nd Runner Up</td>
     </tr>
     <tr align="center">
-      <td>2</td> <td>Agentic Premier League</td> <td>Open Innovation</td> <td>Winner</td>
+      <td>3</td> <td>Agentic Premier League</td> <td>National</td><td>Open Innovation</td> <td>🥇 Winner</td>
+    </tr>
+     <tr align="center">
+      <td>4</td> <td>Hackolution 2k26</td> <td>College</td><td>Best Innovation</td> <td>🥇 Winner</td>
     </tr>
   </tbody> 
 </table>
