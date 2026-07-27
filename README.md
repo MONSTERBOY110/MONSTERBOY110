@@ -31,6 +31,9 @@
      <tr align="center">
       <td>4</td> <td>Hackolution 2k26</td> <td>College</td><td>Best Innovation</td> <td>🥇 Winner</td>
     </tr>
+    <tr align="center">
+      <td>5</td> <td>HexaFalls 2</td> <td>College</td><td>Sustainability</td> <td>🥇 Winner</td>
+    </tr>
   </tbody> 
 </table>
 <br/>
