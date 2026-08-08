@@ -34,6 +34,9 @@
     <tr align="center">
       <td>5</td> <td>HexaFalls 2</td> <td>College</td><td>Sustainability</td> <td>🥇 Winner</td>
     </tr>
+    <tr align="center">
+      <td>6</td> <td>Build with Gemma</td> <td>State</td><td>GenAI for Good</td> <td>🥉 4th</td>
+    </tr>
   </tbody> 
 </table>
 <br/>
