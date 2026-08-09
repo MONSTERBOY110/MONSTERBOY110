@@ -20,22 +20,25 @@
   </thead> 
   <tbody> 
     <tr align="center"> 
-      <td>1</td> <td>JIS Ideathon 2k25</td> <td>All India</td><td></td> <td>🥇 Winner</td>
+      <td>1</td> <td>JIS Ideathon 2k25</td> <td>All India</td><td>Open Innovation</td> <td>🏅 Winner</td>
     </tr>
     <tr align="center"> 
-      <td>2</td> <td>Winter Solstice</td> <td>College</td><td>Open Innovation</td> <td>🥉 2nd Runner Up</td>
+      <td>2</td> <td>MCKV TechSprint</td> <td>College</td><td>Open Innovation</td> <td>🥉 3rd Runner Up</td>
+    </tr>
+    <tr align="center"> 
+      <td>3</td> <td>Winter Solstice</td> <td>College</td><td>Open Innovation</td> <td>🥈 2nd Runner Up</td>
     </tr>
     <tr align="center">
-      <td>3</td> <td>Agentic Premier League</td> <td>National</td><td>Open Innovation</td> <td>🥇 Winner</td>
+      <td>4</td> <td>Agentic Premier League</td> <td>National</td><td>Open Innovation</td> <td>🏅 Winner</td>
     </tr>
      <tr align="center">
-      <td>4</td> <td>Hackolution 2k26</td> <td>College</td><td>Best Innovation</td> <td>🥇 Winner</td>
+      <td>5</td> <td>Hackolution 2k26</td> <td>College</td><td>Best Innovation</td> <td>🏅 Winner</td>
     </tr>
     <tr align="center">
-      <td>5</td> <td>HexaFalls 2</td> <td>College</td><td>Sustainability</td> <td>🥇 Winner</td>
+      <td>6</td> <td>HexaFalls 2</td> <td>College</td><td>Sustainability</td> <td>🏅 Winner</td>
     </tr>
     <tr align="center">
-      <td>6</td> <td>Build with Gemma</td> <td>State</td><td>GenAI for Good</td> <td>🥉 4th</td>
+      <td>7</td> <td>Build with Gemma</td> <td>State</td><td>GenAI for Good</td> <td>🥉 3rd Runner Up</td>
     </tr>
   </tbody> 
 </table>
