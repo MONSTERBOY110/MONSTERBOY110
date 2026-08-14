@@ -41,7 +41,7 @@
       <td>7</td> <td>Build with Gemma</td> <td>State</td><td>GenAI for Good</td> <td>🥉 3rd Runner Up</td>
     </tr>
     <tr align="center">
-      <td>7</td> <td>ViCoDathon</td> <td>International</td><td>Second</td> <td>🥇 1st Runner Up</td>
+      <td>8</td> <td>ViCoDathon</td> <td>International</td><td>Second</td> <td>🥇 1st Runner Up</td>
     </tr>
   </tbody> 
 </table>
