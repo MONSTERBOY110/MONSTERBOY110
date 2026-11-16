@@ -49,7 +49,7 @@
 
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr>
-    <th width="33%" align="center">Languages</th>
+    <th width="33%" align="center">Language</th>
     <th width="33%" align="center">Frontend/Framework</th>
     <th width="33%" align="center">Backend</th>
     <th width="33%" align="center">Database</th>
