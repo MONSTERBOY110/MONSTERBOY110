@@ -95,11 +95,11 @@
     <td align="center" style="border: none;">
       <img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" title="Git" />
       <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" title="GitHub" />
-      <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/githubcopilot.png" width="40" title="GitHub Copilot" />
     </td>
     <td align="center" style="border: none;">
       <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/claude-color.png" width="33" title="Claude" />
       <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/openai.png" width="40" title="ChatGPT" />
+      <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/githubcopilot.png" width="40" title="GitHub Copilot" />
       <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/gemini-color.png" width="33" title="Gemini" />
     </td>
     <td align="center" style="border: none;">
